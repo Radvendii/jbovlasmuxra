@@ -13,7 +13,7 @@ gy.
 .i sidju ta'i lo .uenai nu finti za'u jbovlasmuxra ku .e lo nu skicu lo cfipu ja naldra sepi'o la'e zoi gy. issues gy. ku
 
 * .i ko pilno lo pixra .i naja .ei curmi fi ba'e *mai'i* fe lo nu fukpi 
-* .i .e'o ko troci lo ka sacki be fi le tasmi 
+* .i .e'o ko troci lo ka mapti be lo zasti pixra bei lo tasmi be'o gi'a finti lo cnina jeboku'i stodi tasmi
 * .i .einai ka'e finti za'u jbovlasmuxra be lo valsi poi pu se pixra
 
 .i bau la glico cu cusku zoi gy.
@@ -21,7 +21,7 @@ gy.
 Help is done by making more lojban word meaning pictures (duh) and by reporting what is confusing or wrong use the "issues". 
 
 * Use pictures only if (!) you are allowed to copy them. 
-* Please try to match the style. 
+* Please try to match the existing pictures in style or create a new but consistent style. 
 * Feel free to make more pictures of words that already have pictures.
 
 gy.
